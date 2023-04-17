@@ -1,3 +1,6 @@
+建立全新的 React 應用程式 – React
+https://zh-hant.reactjs.org/docs/create-a-new-react-app.html
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
