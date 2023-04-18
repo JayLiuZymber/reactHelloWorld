@@ -24,10 +24,18 @@
   color: white;
 }
 
+code {
+  color: yellow;
+}
+
 .App-link {
   color: #61dafb;
 }
 
+/* 
+前端及網頁設計教學：用 CSS 做簡單動畫 - 關鍵影格(@keyframes) - 藝誠網頁設計公司
+https://www.eztrust.com.tw/webdesign/B/38
+ */
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
